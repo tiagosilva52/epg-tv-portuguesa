@@ -238,7 +238,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="BENFICA TV">
-    <display-name lang="pt">BENFICA TV</display-name>
+    <display-name lang="pt">BTV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
